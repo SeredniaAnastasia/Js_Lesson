@@ -1,0 +1,55 @@
+
+
+
+.flex, .flex1 {
+    padding: 20px 0;
+    display: flex;
+    height: 50px;
+    background-color: beige;
+    gap: 5px;
+}
+
+.flex {
+    margin-bottom: 50px;
+}
+
+.buttons {
+    padding: 20px 0;
+}
+
+.box{
+    height: 40px;
+    width: 65px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    /* flex-basis: 33.33vw;  */
+}
+
+.green{
+    background-color: green;
+}
+.flex {
+    font-size: 1em;
+}
+.box1 {
+    
+    /* flex-basis: 200px;  */
+    /* flex-basis: 30%;  */
+    /* flex-grow: 1; */
+    /* flex-shrink: 0; */
+}
+
+.box2 {
+    /* flex-grow: 1; */
+    /* flex-shrink: 1; */
+     /* flex-basis: 50%;  */
+}
+.box3 {
+    /* flex-grow: 1; */
+    /* flex-shrink: 1; */
+}
+
+.nan{
+    display: none;
+}
